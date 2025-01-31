@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Virtual Environment
+venv/
+env/
+
+# Ignore large dataset files
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Ignore logs and temp files
+logs/
+*.log
+.DS_Store
